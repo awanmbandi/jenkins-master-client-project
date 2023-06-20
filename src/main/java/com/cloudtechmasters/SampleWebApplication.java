@@ -11,5 +11,4 @@ public class SampleWebApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SampleWebApplication.class, args);
 	}
-
 }
